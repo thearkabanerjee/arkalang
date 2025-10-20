@@ -2,5 +2,6 @@
 2. make the syntax easy to get through
 3. try to make the lanaguge close to C speed (ofc we can try)
 4. make it a compiled language not interpreted (try to)
-    
+    * also one can make the interepreted language first 
+    * then, make a compiled language format
 5. 
