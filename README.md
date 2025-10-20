@@ -1,0 +1,1 @@
+this is my programming language. i intend to make it such that it can be beneficial for all the types of work mostly there.
